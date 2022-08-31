@@ -32,3 +32,6 @@ MIT-style, with the full license available with the framework in License.txt.
 But if you use it, please give me a email for User List.
 
 ## User List ## 
+
+## Reference ##
+* 1). https://kieber-emmons.medium.com/optimizing-parallel-reduction-in-metal-for-apple-m1-8e8677b49b01
